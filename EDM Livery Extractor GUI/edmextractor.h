@@ -1,0 +1,1 @@
+int edmextract(const char* fn, int savetogether, int advanced);
